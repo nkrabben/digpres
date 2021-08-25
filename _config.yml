@@ -11,3 +11,6 @@ github_username: nkrabben
 
 remote_theme: broccolini/swiss
 theme_color: gray
+
+plugins:
+  - jekyll-remote-theme
